@@ -98,3 +98,15 @@
 [2018-07-30T12:00:14.314] [INFO] repo - insert HTML3D.TabTheme
 [2018-07-30T12:00:14.323] [INFO] repo - insert HTML3D.LaunchpadTheme
 [2018-07-30T12:00:14.329] [INFO] repo - insert HTML3D.JewelryBoxTheme
+[2018-07-30T12:09:50.774] [INFO] repo - Read repository items: C:\source\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2018-07-30T12:09:58.378] [INFO] default - No token is found, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2018-07-30T12:10:01.788] [INFO] repo - Read repository items: C:\source\WebAppBuilderForArcGIS\client\stemapp\themes
+[2018-07-30T12:10:04.020] [INFO] repo - Read repository items: C:\source\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2018-07-30T12:10:07.702] [INFO] repo - Read repository items: C:\source\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2018-07-30T12:11:02.457] [INFO] default - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2018-07-30T12:11:45.783] [INFO] default - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2018-07-30T12:13:03.583] [INFO] default - No portal URL is set, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2018-07-30T12:14:21.844] [INFO] default - No portal URL is set, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2018-07-30T12:15:26.570] [INFO] default - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2018-07-30T12:15:44.022] [INFO] default - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2018-07-30T12:16:46.393] [INFO] default - No portal URL is set, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
